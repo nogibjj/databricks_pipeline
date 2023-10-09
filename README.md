@@ -1,5 +1,8 @@
 Week 6: Complex SQL Query for a MySQL Database (Can be any external database including DynamoDB, Databricks, or even Neo4)
-Requirements
+
+[![CI](https://github.com/nogibjj/mini_project_6/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mini_project_6/actions/workflows/cicd.yml)
+
+### Requirements
 
 The goal of this mini project was to query a SQL database from an external source.
 
