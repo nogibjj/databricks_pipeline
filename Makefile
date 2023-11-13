@@ -10,7 +10,7 @@ format:
 	nbqa black *.ipynb
 
 lint:
-	nbqa ruff *.ipynb
+	# nbqa ruff *.ipynb
 
 run:
 	nbqa ruff *.ipynb
