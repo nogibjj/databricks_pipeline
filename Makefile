@@ -7,7 +7,7 @@ test:
 
 
 format:	
-	nbqa black *.ipynb
+	# nbqa black *.ipynb
 
 lint:
 	# nbqa ruff *.ipynb
